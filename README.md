@@ -114,7 +114,8 @@ int main() {
 }
 ```
 ## OUTPUT:
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/923b46b0-2242-4de6-8bf8-f78ccaa6eed4)
+
 
 ## RESULT:
   Thus the rail fence algorithm had been executed successfully.
